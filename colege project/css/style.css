@@ -1,0 +1,43 @@
+
+body		{ background-image:url(file:///C|/Users/prabishan%20stha/Desktop/college%20project/A.jpg);
+				background-repeat:repeat;
+				}
+				
+h1, h2		{ font-family:"Courier New", Courier, monospace ;
+				color:#03F;}
+
+#wrapper	{ width:900px;
+			  margin:10px auto;
+			  background-color:#FFF;
+			  padding:0px 40px;
+			  }
+#top			{	}
+#logo			{ float:left; margin:50px 0;	}
+
+#social-media 	{ float:right; margin:50px 0	; }
+#social-media ul li  { display:inline;
+					  list-style:none;
+					  margin:10px;}
+#social-media p{	text-align:right;}
+
+#topnav			{ clear:both; }
+#topnav ul		{ padding:15px 0 ;	margin:0;
+					border-top:2px #F00  ridge;}
+					
+#topnav ul li { display:inline; list-style:none;
+				margin:0 20px 0 0; }
+#topnav a		{ font-weight:bold ; text-decoration:none; padding:10px; color:#F00; text-transform:uppercase; }
+#topnav a:visited 	{ font-weight:bold ; text-decoration:none;  color:#F00;	text-transform:uppercase; }
+#topnav a:active	{ font-weight:bold ; text-decoration:none;	color:#FF8000; text-transform:uppercase; }
+#topnav a:hover		{ font-weight:bold ; text-decoration:none;  background-color:#0CF; text-transform:uppercase;  }
+#topnav a:focus		{ font-weight:bold ; text-decoration:none;  color:#F00; text-transform:uppercase; }
+#content		{float:left; width:580px ;}
+#content p		{ text-align:justify;}
+
+#rightside		{float:right; width:270px;}
+
+#footer {clear:both; padding:10px 0px ;
+			border-top:1px #00C double ;
+			text-align:center;}
+
+	
